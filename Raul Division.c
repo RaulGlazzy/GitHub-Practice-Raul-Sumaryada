@@ -1,6 +1,8 @@
 int main() {
     int dividend, divisor, quotient;
 
+
+    printf("Rauly's trying to change the code!!!");
     printf("Enter dividend: ");
     scanf("%d", &dividend);
 
@@ -15,6 +17,5 @@ int main() {
 
     quotient = dividend / divisor;
 
-    printf("Quotient: %d\n", quotient);
 
     return 0;
